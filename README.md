@@ -22,7 +22,7 @@ See the platform in action by watching this short demo video:
 
 - **Task Management System**: Easily track your learning tasks and deadlines. Stay on top of your goals.
 - **Event Joining**: Find and join relevant events that align with your learning interests.
-- **Personalized Content**: Get notes and videos based on your identified weaknesses.
+- **Personalized Content**: Get notes and videos based on your identified weaknesses && interests through activity.
 - **Learning Chatbot**: Chat with a bot that suggests the best learning path for you, based on your goals (e.g., becoming a 3D Designer, Full Stack Developer, etc.).
 
 ## Check Output demo
