@@ -6,18 +6,23 @@ This is a personalized learning platform that includes features like task manage
 
 Welcome to the **Personalized Learning Platform**! This platform is designed to help students learn more effectively by personalizing their learning journey. By understanding each student’s **strengths**, **weaknesses**, and **interests**, it creates a tailored experience to make learning more engaging and productive.
 
-The platform includes features like:
 
-- Task management to stay organized
-- Event joining based on your learning interests
-- Personalized content (notes & videos) to help improve weak areas
-- A chatbot that helps guide your learning path
 
 ## Watch the Demo
 
 See the platform in action by watching this short demo video:  
 [**Click here to watch the demo video**](https://github.com/Developer-Ram72/Personalized-Learning-Platform/blob/main/learn.mp4)
 
+
+### System - Architecture :
+
+
+This architecture outlines the foundational components and systems responsible for creating a dynamic, adaptive, and event-driven learning ecosystem. The system is designed to handle user interactions, personalized content delivery, real-time event synchronization, and continuous updates while ensuring minimal exposure to internal states.
+
+**For detailed architecture specifications**, refer to the 
+[System Architecture Document](https://github.com/Developer-Ram72/Personalized-Learning-Platform/blob/main/system_architecture.txt).
+
+   
 ## Features
 
 - **Task Management System**: Easily track your learning tasks and deadlines. Stay on top of your goals.
@@ -41,15 +46,7 @@ See the platform in action by watching this short demo video:
 
 3. **Additional: PHP for specific functionality**
 
-### System - Architecture :
 
-
-This architecture outlines the foundational components and systems responsible for creating a dynamic, adaptive, and event-driven learning ecosystem. The system is designed to handle user interactions, personalized content delivery, real-time event synchronization, and continuous updates while ensuring minimal exposure to internal states.
-
-**For detailed architecture specifications**, refer to the 
-[System Architecture Document](https://github.com/Developer-Ram72/Personalized-Learning-Platform/blob/main/system_architecture.txt).
-
-   
 ### Key Elements of This Version:
 
 1. **Introduction**: A brief and clear description of what the platform does. It’s not too technical, just enough to make the reader understand the purpose of the project.
