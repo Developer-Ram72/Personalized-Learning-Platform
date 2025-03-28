@@ -33,23 +33,23 @@ See the platform in action by watching this short demo video:
    git clone https://github.com/Developer-Ram72/Personalized-Learning-Platform.git
 
 ###Technologies Used
-**The project uses a variety of technologies to ensure everything works smoothly:
+**The project uses a variety of technologies to ensure everything works smoothly:**
 
-1. **Backend: Node.js, Express
+1. **Backend: Node.js, Express**
 
-2. **Frontend: HTML, CSS, Vanilla JavaScript
+2. **Frontend: HTML, CSS, Vanilla JavaScript**
 
-2. **Additional: PHP for specific functionality
+2. **Additional: PHP for specific functionality**
 
    
 ### Key Elements of This Version:
 
-1. **Friendly and Clear Introduction**: A brief and clear description of what the platform does. It’s not too technical, just enough to make the reader understand the purpose of the project.
+1. **Introduction**: A brief and clear description of what the platform does. It’s not too technical, just enough to make the reader understand the purpose of the project.
 2. **Step-by-Step Setup**: Simple instructions on how to get started with the platform.
 3. **No Overuse of #Jargon#**: It avoids overly technical terms and focuses on making the information accessible for everyone. 
-4. **Concise, Action-Oriented Sections**: The **Tech Stack**, **Contributing** section, all information are presented in a structured yet easy-to-read manner. 
+4. **Concise Sections**: The **Tech Stack**, **Contributing** section, all information are presented in a structured yet easy-to-read manner. 
 5. **Contact**: Contact information is included and contacting is welcomed, ##approachable .
 
 
-### Contact
-### If you have any questions, feel free to reach out to me on GitHub or send an email to gitdude2@gmail.com.
+### Contact :
+ If you have any questions, feel free to reach out to me on GitHub or send an email to gitdude2@gmail.com.
