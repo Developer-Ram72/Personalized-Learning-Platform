@@ -44,7 +44,7 @@ See the platform in action by watching this short demo video:
 ### System - Architecture :
 
 
-This architecture outlines the foundational components and systems responsible for creating a dynamic, adaptive, and event-driven learning ecosystem. The system is designed to handle user interactions, personalized content delivery, real-time event synchronization, and continuous updates while ensuring minimal exposure to internal states or timestamp data.
+This architecture outlines the foundational components and systems responsible for creating a dynamic, adaptive, and event-driven learning ecosystem. The system is designed to handle user interactions, personalized content delivery, real-time event synchronization, and continuous updates while ensuring minimal exposure to internal states.
 
 **For detailed architecture specifications**, refer to the 
 [System Architecture Document](https://github.com/Developer-Ram72/Personalized-Learning-Platform/blob/main/system_architecture.txt).
