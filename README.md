@@ -6,7 +6,8 @@ This is a personalized learning platform that includes features like task manage
 
 Welcome to the **Personalized Learning Platform**! This platform is designed to help students learn more effectively by personalizing their learning journey. By understanding each student’s **strengths**, **weaknesses**, and **interests**, it creates a tailored experience to make learning more engaging and productive.
 
-
+### Reference ia @ sectional reference branch 
+**checkout if needed**
 
 ## Watch the Demo
 
