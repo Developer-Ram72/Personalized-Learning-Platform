@@ -7,7 +7,14 @@ This is a personalized learning platform that includes features like task manage
 Welcome to the **Personalized Learning Platform**! This platform is designed to help students learn more effectively by personalizing their learning journey. By understanding each student’s **strengths**, **weaknesses**, and **interests**, it creates a tailored experience to make learning more engaging and productive.
 
 ### Reference ia @ sectional reference branch 
-**checkout if needed**
+**checkout if needed**@[**Click here to see the refernce materials**](https://github.com/Developer-Ram72/Personalized-Learning-Platform/blob/sectional-reference/script0.js) 
+
+"""
+### some materials will be updated soon 
+**Materials sanitizing in progress**
+
+"""
+
 
 ## Watch the Demo
 
