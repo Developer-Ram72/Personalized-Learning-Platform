@@ -1,0 +1,58 @@
+.recommendations {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 20px;
+  margin-top: 20px;
+}
+
+.recommend-card {
+  background: rgba(45, 55, 72, 0.7);
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+  transition: transform 0.3s, background 0.3s;
+}
+
+.recommend-card:hover {
+  transform: translateY(-5px);
+  background: rgba(45, 55, 72, 0.9);
+}
+
+.video-card {
+  background: rgba(45, 55, 72, 0.8);
+  padding: 20px;
+  border-radius: 10px;
+  transition: transform 0.3s;
+}
+
+.video-card:hover {
+  transform: translateY(-5px);
+}
+
+.button {
+  background: #ff3366;
+  color: white;
+  padding: 12px 25px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 15px 0;
+  transition: background 0.3s;
+}
+
+.button:hover {
+  background: #ff1f1f;
+}
+
+.footer {
+  text-align: center;
+  margin-top: 20px;
+  padding: 10px;
+  background: #1e1b4b;
+  border-top: 2px solid #00a3ff;
+}
+
+.footer p {
+  font-size: 0.9rem;
+  color: #aaa;
+}
